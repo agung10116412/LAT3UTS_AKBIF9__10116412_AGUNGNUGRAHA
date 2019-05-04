@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MYSELF APPS</string>
+
+    <string name="ob_header1">MYSELF APPS</string>
+    <string name="ob_header2">EASY TO USE</string>
+    <string name="ob_header3">EASY TO LEARN</string>
+
+    <string name="ob_desc1">Data Diri Digital Digenggaman Anda</string>
+    <string name="ob_desc2">Mudah digunakan</string>
+    <string name="ob_desc3">Mudah dipahami</string>
+
+    <string name="home">Home</string>
+    <string name="daily">Daily</string>
+    <string name="gallery">Gallery</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+
+    <string name="contact">Contact and Social Media</string>
+
+    <string name="googleMapsKey">AIzaSyCEX7A2cinrxiDr1s2TDcAhsbxUMG9dCeA</string>
+</resources>
